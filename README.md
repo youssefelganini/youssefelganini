@@ -51,5 +51,5 @@ I am actively engaged in the open-source community and love contributing to impa
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefelganini&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefelganini&theme=dark&hide_border=true&show_icons=true&v=1" alt="GitHub Stats" />
 </div>
