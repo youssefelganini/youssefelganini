@@ -10,10 +10,15 @@
 ### 👨‍💻 About Me
 I'm a Computer and Systems Engineering student passionate about problem-solving, open-source development, and building efficient systems. I enjoy low-level programming and algorithm optimization, while also building a strong mathematical foundation for future work in machine learning. 
 
+<br>
+
 ### 🛠 Tech Stack
-* **Languages:** Python, C, C++, Java
-* **Tools & Environment:** Git, GitHub, AWS
-* **Interests:** Competitive Programming, Data Structures, Hardware Design, Information Theory
+
+**Languages:**<br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
+**Tools & Environment:**<br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 
 <br>
 
@@ -46,5 +51,5 @@ I am actively engaged in the open-source community and love contributing to impa
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefelganini&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefelganini&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
 </div>
