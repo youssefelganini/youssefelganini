@@ -41,6 +41,7 @@ I'm a Computer and Systems Engineering student passionate about problem-solving,
 ### 🌍 Open Source Contributions
 I am actively engaged in the open-source community and love contributing to impactful projects. Here is a highlight of my recent merged work:
 * ✨ **[xLaDe Framework Contribution](https://github.com/LakshitSinghBishtTM/xLaDe/pull/24)** - *Approved & Merged PR*
+* ✨ **[TraceMl](https://github.com/traceopt-ai/traceml/pull/194#event-27861161013)** - *Approved & Merged PR*
 
 <br>
 
